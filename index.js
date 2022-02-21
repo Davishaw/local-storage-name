@@ -8,7 +8,6 @@ const storedName = localStorage.getItem('name');
 
 
 
-// 
 if(input) {
     textName.textContent = storedName;
 }
