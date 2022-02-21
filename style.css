@@ -8,17 +8,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-/* #container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 30%;
-    margin: auto;
-    text-align: center;
-    height: 50vh;
-    padding: 10px;
-} */
-
 #container {
     background-color: rgb(221, 205, 59);
     display: flex;
